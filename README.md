@@ -18,11 +18,9 @@ A modern, native Android application built with **Jetpack Compose** that helps e
     *   Clean, minimalist design with easy-to-use tabs for switching modes.
 
 ## Screenshots 📱
-
-*(You can add screenshots of your running app here later)*
 <div align="center">
-  <img src="https://via.placeholder.com/250x500.png?text=Resistor+Mode" width="250"/>
-  <img src="https://via.placeholder.com/250x500.png?text=Capacitor+Mode" width="250"/>
+<img width="500" height="1200" alt="image" src="https://github.com/user-attachments/assets/e307e503-d19f-41a7-ab71-7528818fec80" />
+<img width="500" height="1200" alt="image" src="https://github.com/user-attachments/assets/acd87e01-b31e-4322-96d7-41d5a6ce4506" />
 </div>
 
 ## Tech Stack 🛠️
@@ -36,7 +34,7 @@ A modern, native Android application built with **Jetpack Compose** that helps e
 
 1.  Clone this repository:
     ```bash
-    git clone https://github.com/YOUR-USERNAME/ComponentCalculator.git
+    git clone https://github.com/Ritam0609/ComponentCalculator.git
     ```
 2.  Open the project in **Android Studio** (Koala or newer recommended).
 3.  Allow Gradle to sync the project dependencies.
@@ -46,7 +44,7 @@ A modern, native Android application built with **Jetpack Compose** that helps e
 ## Contributing 🤝
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check [issues page](https://github.com/YOUR-USERNAME/ComponentCalculator/issues) if you want to contribute.
+Feel free to check [issues page](https://github.com/Ritam0609/ComponentCalculator/issues) if you want to contribute.
 
 Some ideas for future features:
 - Support for 5-band and 6-band resistors.
