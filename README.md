@@ -19,8 +19,8 @@ A modern, native Android application built with **Jetpack Compose** that helps e
 
 ## Screenshots 📱
 <div align="center">
-<img width="500" height="1200" alt="image" src="https://github.com/user-attachments/assets/e307e503-d19f-41a7-ab71-7528818fec80" />
-<img width="500" height="1200" alt="image" src="https://github.com/user-attachments/assets/acd87e01-b31e-4322-96d7-41d5a6ce4506" />
+<img width="300" height="800" alt="image" src="https://github.com/user-attachments/assets/e307e503-d19f-41a7-ab71-7528818fec80" />
+<img width="300" height="800" alt="image" src="https://github.com/user-attachments/assets/acd87e01-b31e-4322-96d7-41d5a6ce4506" />
 </div>
 
 ## Tech Stack 🛠️
